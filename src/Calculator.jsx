@@ -66,10 +66,10 @@ const handleClick = (value) => {
         <button name="1" onClick={()=>handleClick("1")}>
           1
         </button>
-        <button name="2" onClick={()=>handleClick("1")}>
+        <button name="2" onClick={()=>handleClick("2")}>
           2
         </button>
-        <button name="3" onClick={()=>handleClick("1")}>
+        <button name="3" onClick={()=>handleClick("3")}>
           3
         </button>
         <button name="*" onClick={()=>handleClick("*")}>
